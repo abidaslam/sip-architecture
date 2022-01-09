@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-09T13:23:47.485Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="B6cERYgM1FQDQnX5v505" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-09T13:24:08.567Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="AMTROgTSBrk6lyJdLASV" version="16.2.4" type="github">
   <diagram id="peyG-t-ydXV07V0aSg5m" name="Page-1">
     <mxGraphModel dx="1021" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -28,7 +28,7 @@
         <mxCell id="7z-hKkOT9pqq6aNvGGac-12" value="Verify Code" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7z-hKkOT9pqq6aNvGGac-13" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Verify Code&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="7z-hKkOT9pqq6aNvGGac-13" value="&lt;font style=&quot;font-size: 12px&quot;&gt;- Verify Code&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="250" y="190" width="220" height="110" as="geometry" />
         </mxCell>
         <mxCell id="7z-hKkOT9pqq6aNvGGac-14" value="- Activate User" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
